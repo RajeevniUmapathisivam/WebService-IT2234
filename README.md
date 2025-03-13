@@ -6,3 +6,6 @@ convert the original string as left to right into right to left
 
 print the odd numbers from one to ten
 ![Screenshot 2025-03-13 152235](https://github.com/user-attachments/assets/cd43768b-366a-406c-9829-5da171463f8d)
+
+print the numbers upto ten
+![Screenshot 2025-03-13 150205](https://github.com/user-attachments/assets/8c012ab2-c356-47ee-bbb6-e66e9f513c14)
