@@ -3,3 +3,6 @@ Hello world -output
 
 convert the original string as left to right into right to left
 ![Screenshot 2025-03-13 150313](https://github.com/user-attachments/assets/76b26074-c5ce-48b1-bd54-fa111d896aa0)
+
+print the odd numbers from one to ten
+![Screenshot 2025-03-13 152235](https://github.com/user-attachments/assets/cd43768b-366a-406c-9829-5da171463f8d)
