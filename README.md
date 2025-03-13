@@ -9,3 +9,6 @@ print the odd numbers from one to ten
 
 print the numbers upto ten
 ![Screenshot 2025-03-13 150205](https://github.com/user-attachments/assets/8c012ab2-c356-47ee-bbb6-e66e9f513c14)
+
+Reverse order of the number
+![Screenshot 2025-03-13 150237](https://github.com/user-attachments/assets/96d749d6-fedd-4f6d-8eab-6c6a57c893e3)
