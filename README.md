@@ -12,3 +12,6 @@ print the numbers upto ten
 
 Reverse order of the number
 ![Screenshot 2025-03-13 150237](https://github.com/user-attachments/assets/96d749d6-fedd-4f6d-8eab-6c6a57c893e3)
+
+Array in javascript
+![Screenshot 2025-03-19 141106](https://github.com/user-attachments/assets/505723f3-1465-46d5-a8a4-861571017fff)
