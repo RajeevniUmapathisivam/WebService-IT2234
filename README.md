@@ -24,3 +24,6 @@ print the nested array
 
 push and pop the element
 ![Screenshot 2025-03-19 204532](https://github.com/user-attachments/assets/3a956bf0-5a52-4366-8b41-92f71dc77619)
+
+json in javascript
+![Screenshot 2025-03-19 142455](https://github.com/user-attachments/assets/9328147e-ad1a-489f-8311-8eabbf6f25e0)
