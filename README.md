@@ -15,3 +15,6 @@ Reverse order of the number
 
 Array in javascript
 ![Screenshot 2025-03-19 141106](https://github.com/user-attachments/assets/505723f3-1465-46d5-a8a4-861571017fff)
+
+Get the common elements in the array
+![Screenshot 2025-03-19 142012](https://github.com/user-attachments/assets/97b5f592-0250-4f2e-9881-5c41cbfca492)
