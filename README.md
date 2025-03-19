@@ -18,3 +18,6 @@ Array in javascript
 
 Get the common elements in the array
 ![Screenshot 2025-03-19 142012](https://github.com/user-attachments/assets/97b5f592-0250-4f2e-9881-5c41cbfca492)
+
+print the nested array
+![Screenshot 2025-03-19 141257](https://github.com/user-attachments/assets/c575b3aa-9ae5-46a7-99bf-fc664f7fb96f)
