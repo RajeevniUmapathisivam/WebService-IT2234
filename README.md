@@ -21,3 +21,6 @@ Get the common elements in the array
 
 print the nested array
 ![Screenshot 2025-03-19 141257](https://github.com/user-attachments/assets/c575b3aa-9ae5-46a7-99bf-fc664f7fb96f)
+
+push and pop the element
+![Screenshot 2025-03-19 204532](https://github.com/user-attachments/assets/3a956bf0-5a52-4366-8b41-92f71dc77619)
