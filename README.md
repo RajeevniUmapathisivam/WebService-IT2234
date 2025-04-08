@@ -3,4 +3,4 @@ Display the information of all students
 ![Screenshot (5)](https://github.com/user-attachments/assets/227cfbdd-a3cd-4037-baac-82072c877292)
 
 Display the students who are in male category
-
+![Screenshot (6)](https://github.com/user-attachments/assets/36ef7532-14a0-49a3-8577-43c579d54e3f)
