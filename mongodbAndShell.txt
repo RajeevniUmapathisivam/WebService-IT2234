@@ -1,0 +1,113 @@
+use unidb
+
+show databases
+
+show collections
+
+use local
+
+use unidb
+ 
+ 
+ 
+// in shell
+//insertOne
+db.student.insertOne(
+{
+  
+  "regno": "2021IT91",
+  "name": "Rajeevni",
+  "age": 23,
+  "gender": "female",
+  "degree": "IT",
+  "gpa": 3.4,
+  "skills": [
+    "Java",
+    "MatLab",
+    "MySql"
+  ]
+}
+)
+
+
+//insertMany
+
+
+db.student.insertMany(
+[
+{
+ "regno": "2021IT03", 
+ "name": "Mithu",
+  "age": 24,
+  "gender": "male",
+  "degree": "CSC",
+  "gpa": 3.5,
+  "skills": [
+    "Java",
+    "Python",
+    "Node",
+	"PHP"
+  ]
+},
+{
+  "regno": "2021IT05",
+  "name": "Kavi",
+  "age": 25,
+  "gender": "female",
+  "degree": "CSC",
+  "gpa": 3.0,
+  "skills": [
+    "JS",
+    "Java",
+    "Node"
+  ]
+}
+
+])
+
+
+//in mongodb
+// in options find something   { type wanted things}
+
+{gender:"female"}
+
+{name:1,age:1}
+
+{name:1,age:1,_id:0}
+
+{age:{$lte:24}}         // <=less than or equal
+
+{age:{$gte:24}}			// >=greater than or equal
+
+{age:{$lt:24}}			// <less than
+
+{age:{$gt:24}}			// >greater than
+
+{ skills:{$in:['MongoDb']}}
+
+{ skills:{$in:['JS','C#']}}
+
+{ skills:{$nin:['Java']}}
+
+
+
+db.student.find({"gender":"female"})
+
+db.student.findOne({"gender":"female"})
+
+db.student.find({'degree':'IT'}).sort({'gpa':1})
+
+db.student.find({'gender':'female','degree':'IT'}).sort({'age':-1})
+
+
+
+db.student.updateOne(
+  { name: "Vimal" },
+  { $set: { degree: "CSC" } }
+);
+
+
+db.student.deleteMany({ degree: "CSC" });
+
+
+
