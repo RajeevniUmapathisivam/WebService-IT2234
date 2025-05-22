@@ -10,6 +10,3 @@
 ![Screenshot 2025-05-19 103823](https://github.com/user-attachments/assets/9b527865-d6ca-4ac3-96a4-9fb866ba40a9)
 
 
-|dis|output|
-|-----------|----------|
-|1|![Uploading Screenshot 2025-05-19 091807.png…]()|
